@@ -2,6 +2,6 @@
 
 A simple transparent login page.
 
-\nPreview: https://loginwithus.netlify.app
+Preview: https://loginwithus.netlify.app
 
 
