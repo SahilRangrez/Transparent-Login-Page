@@ -1,3 +1,3 @@
 # Transparent-Login-Page
 
-Edited
+A simple transparent login page.
